@@ -8,6 +8,12 @@ The primary goal of this project is to encourage outside activity,to support tea
 * 26 August 2020-Wednesday-Zoom
 
 ## Half day 1:
+1. Discussed about the project.
+2. Divinding the tasks among the team members.
+3. Understanding the requirements(RFP)
+4. Clarifying the doubts with team members.
+5. Developed ER diagrams 
+6. Developed content describing the ER diagrams and relationships among them.
 
 
 ## Half day 2
